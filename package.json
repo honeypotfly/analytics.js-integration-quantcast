@@ -30,7 +30,7 @@
     "use-https": "^0.1.1"
   },
   "devDependencies": {
-    "@segment/analytics.js-core": "^3.0.0",
+    "@segment/analytics.js-core": "^4.1.11",
     "@segment/analytics.js-integration-tester": "^3.1.0",
     "@segment/clear-env": "^2.0.0",
     "@segment/eslint-config": "^3.1.1",
